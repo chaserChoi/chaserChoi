@@ -25,3 +25,5 @@
 
 [![chaserChoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaserChoi&theme=midnight-purple&show_icons=true)](https://github.com/chaserChoi/github-readme-stats)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=paul_jack)](https://solved.ac/paul_jack/)
+
